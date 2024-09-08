@@ -4,7 +4,7 @@ AudioMorpher 是一个用 Rust 编写的命令行工具，用于将 `m4a` 格式
 
 ## 安装
 
-1. 确保你的系统已经安装了Rust编译器。如果没有，请访问Rust官网（https://www.rust-lang.org/），根据你的操作系统下载并安装Rust工具链。
+1. 确保你的系统已经安装了Rust编译器。如果没有，请访问[Rust官网](https://www.rust-lang.org/)，根据你的操作系统下载并安装Rust工具链。
 
 2. 克隆AudioMorpher项目到本地，进入到项目目录中。
 
@@ -20,6 +20,17 @@ AudioMorpher 是一个用 Rust 编写的命令行工具，用于将 `m4a` 格式
 
 欢迎贡献代码或提供反馈，有任何问题或建议，请在GitHub项目页面上提交Issue或通过邮件联系我。
 
+欢迎贡献！请遵循以下步骤：
+
+1. Fork 本项目
+2. 创建您的特性分支 (`git checkout -b feature/YourFeature`)
+3. 提交您的更改 (`git commit -m 'Add some feature'`)
+4. 推送到分支 (`git push origin feature/YourFeature`)
+5. 创建一个新的 Pull Request
+
+## 许可证
+本项目采用 MIT 许可证
+
 ## 版权声明
 
-Copyright (c) 2024 版权所有。
+Copyright (c) 2024 版权所有
